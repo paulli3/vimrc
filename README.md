@@ -43,7 +43,8 @@
 4. 可 `https://github.com/paulli3/vimrc/raw/master/monaco.ttf` 下载 Monaco 字体，下载后使用命令 `mv MONACO.TTF ~/.fonts` 将其丢到 `~/.fonts` 目录即可
 5. 使用任意文本编辑器打开 .vimrc，将名字、邮箱、网址等全部替换为你自己的信息，如遇路径不同也全部替换为你本机的实际路径
 6. 如此这般就配置好了，尽情享受编码的乐趣吧，使用说明全部集中在 .vimrc 文件的头部，配置的后半部分全是各插件的具体配置项，初学无需理会
-
+7. 配置语法高亮模板，在一下路径 `/usr/share/vim/${vimversion}/colors/` 随便选择一个配色方案即可。例如：
+   当我的vim版本是74的时候,选择用在路径`/usr/share/vim/vim74/colors/` 然后在`echo colorscheme darkblue >> .vimrc` 选择使用darkblue配色方案
 ----
 
 #### Cygwin
