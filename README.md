@@ -1,5 +1,3 @@
-![Vim Ruchee](https://raw.github.com/ruchee/mysite/master/public/images/vim.png "Vim Ruchee")
-
 ----
 
 ##### 配置文件的着色版本：`http://wiki.ruchee.com/public/_vimrc.html`
